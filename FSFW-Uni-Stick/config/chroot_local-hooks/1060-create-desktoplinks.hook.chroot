@@ -1,0 +1,15 @@
+#!/bin/sh
+# Skript erstellt von Norman 2016-10-09
+
+
+echo "test2"
+echo "test2" > /root/text2.txt
+
+
+echo "#########################"
+echo "Create additional Desktoplinks"
+
+mkdir "/home/user/Schreibtisch/weitere Programme"
+
+
+echo "Creation of Desktoplinks finished"
