@@ -1,0 +1,11 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/loop0]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop-Gerät
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sr0]
+EverMounted=true
+Icon=media-optical-data
+LastNameSeen=Debian jessie 20161004-15:20
+LastSeenMounted=true
